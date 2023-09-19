@@ -35,14 +35,14 @@ body{
     left: 5em;
     width: 30em;
     height: 30em;
-    animation: rahul 36.5s linear infinite;
+    animation: shubham 36.5s linear infinite;
 }
 .moon{
     top: 0;
     right: 0;
     width: 8em;
     height: 8em;
-    animation: rahul 5s linear infinite;
+    animation: shubham 5s linear infinite;
 }
 .earth::before,
 .moon::before{
@@ -64,7 +64,7 @@ body{
     height: 1.2em;
     background-color: silver;
 }
-@keyframes rahul{
+@keyframes shubham{
     to{
         transform: rotate(360deg);
     }
